@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photo-Notes</string>
+    <string name="title_activeity_detail">View </string>
+    <string name="title_activeity_photo">Add</string>
+
+    <string name="addphoto">Add</string>
+    <string name="uninstall">Uninstall</string>
+</resources>
